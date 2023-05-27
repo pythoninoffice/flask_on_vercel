@@ -4,8 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, Vercel asdf!</p>"
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
+    return "<p>Hello, Vercel!</p>"
