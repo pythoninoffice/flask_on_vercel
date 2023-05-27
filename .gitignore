@@ -1,0 +1,6 @@
+/__pycache__
+/uploads
+*.mp4
+/venv
+/ffmpeg
+*.pyc
